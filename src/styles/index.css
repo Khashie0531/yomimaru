@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+:root {
+  /* Primary theme colors */
+  --theme-primary: #3B82F6;
+  --theme-bg-from: #3B82F6;
+  --theme-bg-to: #9333EA;
+  --theme-bg-light: rgba(59, 130, 246, 0.1);
+  --theme-text: #1F2937;
+
+  /* Button colors */
+  --theme-button-primary: #3B82F6;
+  --theme-button-hover: #2563EB;
+
+  /* Card and surface colors */
+  --theme-card-bg: #FFFFFF;
+  --theme-card-border: #E5E7EB;
+  --theme-card-shadow: rgba(0, 0, 0, 0.1);
+
+  /* Text colors */
+  --theme-text-primary: #111827;
+  --theme-text-secondary: #6B7280;
+  --theme-text-muted: #9CA3AF;
+
+  /* Accent colors */
+  --theme-accent: #3B82F6;
+  --theme-accent-light: rgba(59, 130, 246, 0.1);
+
+  /* Status colors */
+  --theme-success: #10B981;
+  --theme-success-light: rgba(16, 185, 129, 0.1);
+  --theme-warning: #F59E0B;
+  --theme-warning-light: rgba(245, 158, 11, 0.1);
+  --theme-error: #EF4444;
+  --theme-error-light: rgba(239, 68, 68, 0.1);
+  --theme-info: #3B82F6;
+  --theme-info-light: rgba(59, 130, 246, 0.1);
+
+  /* Sidebar colors */
+  --theme-sidebar-bg: #3B82F6;
+  --theme-sidebar-hover: rgba(59, 130, 246, 0.8);
+
+  /* Gradient colors */
+  --theme-gradient-from: #3B82F6;
+  --theme-gradient-to: #9333EA;
+
+  /* Background colors */
+  --theme-bg-primary: #F9FAFB;
+  --theme-bg-secondary: #FFFFFF;
+
+  /* Chart colors */
+  --theme-chart-blue: #3B82F6;
+  --theme-chart-yellow: #F59E0B;
+  --theme-chart-green: #10B981;
+  --theme-chart-cyan: #06B6D4;
+  --theme-chart-purple: #8B5CF6;
+}
+
+* {
+  margin: 0;
+  padding: 2px;
+  box-sizing: border-box;
+}
