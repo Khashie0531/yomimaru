@@ -64,7 +64,7 @@ https://github.com/Khashie0531/yomimaru
 
 ## 開発者
 
-ハシエルデネアマルトル
+アマルトル ハシエルデネ
 
 * 読売理工医療福祉専門学校 ITエンジニア学科
 * JLPT N2
